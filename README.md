@@ -1,4 +1,4 @@
-# Kaggle-badges
+# Hello World👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PatelRis)
 
