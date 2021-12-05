@@ -4,3 +4,6 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{patelris}/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{patelris}/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{patelris}/discussion)
+
+
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{patelris}/{notebook})
